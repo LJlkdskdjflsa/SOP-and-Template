@@ -1,0 +1,2 @@
+- list work when working
+- abstract the things need to talk at the week end
