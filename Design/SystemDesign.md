@@ -19,7 +19,6 @@ example:
     - Sequence Diagram
     - Data Flow Diagram
 - Guildline -> tutorial to some functions
-- 
 
 
 

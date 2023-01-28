@@ -6,7 +6,7 @@ SOP & Template for Everything
 ## People Skill
 ---
 - [Discuss things with others](PeopleSkill/Discuss.md)
-- [Backend stand up meeting]
+- [stand up meeting]
 
 
 ## Self Skill
@@ -26,6 +26,7 @@ SOP & Template for Everything
 - [Set up DB when developing project](Dev/DevelopeNewProject.md)
 - [Project Research](Dev/ProjectResearch.md)
 - [Estimate Dev Time](SelfSkill/EstimateTime/DevTime.md)
+- [Refactor Standard](Dev/RefactorStandard.md)
 
 ### Error Handling
 ---

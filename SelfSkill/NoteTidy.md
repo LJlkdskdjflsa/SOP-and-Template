@@ -12,15 +12,15 @@ use [] to write as to do
 - [Done]
 
 # SOP
+- write down info in a temp file 
 - create a file for tidy note (use the template below)
 - Read through note
-- list all things
-  - to note
-  - todo
+- list all things with categorization
+  - ex.
+    - to note
+    - todo
 - rearragne the priorities of this things
 - do things (make sign after done)
-  - note things to note
-  - do things to do
 
 # Template
 
