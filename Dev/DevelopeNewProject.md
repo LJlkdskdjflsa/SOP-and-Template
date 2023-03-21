@@ -1,7 +1,11 @@
 # Develope New Project
 
-
-- git clone
+- 從 https://github.com/xrex-inc/template-repo 建立新專案
+- 使用 PyCharm 建立 fastAPI 專案,在專案中
+- 加入 submodule: [docs](https://www.notion.so/xrexuiux/Goose-92eb0e2aa4c6495e946a339ce1bad6f5) Initial Goose In New Repo 部分
+  - git submodule add git@github.com:xrex-inc/dev-tools.git xdev/dev-tools
+- Docs
+  - 
 ## DB setup
 
 ### Goose
@@ -79,3 +83,5 @@ sh xdev/goosedb.sh -e local -c status
 
 R:
 https://github.com/pressly/goose
+
+poetry add -D pytest pytest-cov autoflake flake8 mypy isort pre-commit pyright black SQLAlchemy-Utils pytest-xdist pytest-rerunfailures pytest-timeout sqlalchemy-stubs pytest-clarity pytest-asyncio types-requests types-pyyaml pytest-mock
