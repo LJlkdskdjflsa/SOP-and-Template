@@ -1,6 +1,11 @@
 # Git Commit
 
 # SOP
+git add pre-commit
+```
+pre-commit install
+```
+
 pre-commit check
 ```
 pre-commit run --all-files
