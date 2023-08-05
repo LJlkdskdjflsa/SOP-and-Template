@@ -7,7 +7,7 @@ ps -ef | grep python
 
 ## kill process
 ```
-kill -9 53622                      
+kill -9 40200                     
 
 ```
 
